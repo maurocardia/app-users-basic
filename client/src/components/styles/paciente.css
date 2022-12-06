@@ -1,0 +1,31 @@
+.pacienteDiv{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+
+}
+
+img{
+    margin-bottom: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+h5{
+    font-size: small;
+    margin-bottom: 0.9rem;
+
+}
+
+p{
+    font-weight: 250;
+    margin-bottom: 0;
+}
+
+.card{
+    width: 30vw;
+    border-radius: 1rem;
+    border-style: none;
+    box-shadow: 0px 3px 6px gray;
+}
